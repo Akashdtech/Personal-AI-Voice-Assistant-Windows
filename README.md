@@ -14,17 +14,17 @@ Installation:
 
     Ensure you have the required dependencies installed before running the script.
 
-        pip install SpeechRecognition pyttsx3 wikipedia PyAudio
-        sudo apt install espeak portaudio19-dev python-all-dev python3-all-dev
+    pip install SpeechRecognition pyttsx3 wikipedia PyAudio
+    sudo apt install espeak portaudio19-dev python-all-dev python3-all-dev
 
 Usage:
 
     Run the script.
     Say "Raven" to activate the assistant.
     Give a command, such as:
-        "Open Google"
-        "Search Wikipedia for artificial intelligence"
-        "What time is it?"
+    "Open Google"
+    "Search Wikipedia for artificial intelligence"
+    "What time is it?"
     Say "Exit" to close the assistant.
 
 Notes:
